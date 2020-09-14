@@ -1,4 +1,4 @@
-This Scraper Scrapes stock prices from investing.com in only **5 lines of code**.
+This Scraper Scrapes stock prices from investing.com.
 
 Technologies Used:
 - Node.js

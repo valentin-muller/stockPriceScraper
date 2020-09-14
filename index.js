@@ -22,3 +22,7 @@ async function getPrice(url) {
     dayPrices.date = new Date().toDateString();
     await sheet.addRows([dayPrices], 1)
 })();
+
+//detect weekday
+// const dayOfWeek = new Date().getDay();
+// if (dayOfWeek === 0 || dayOfWeek === 6) {}
